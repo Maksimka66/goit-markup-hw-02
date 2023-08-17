@@ -74,5 +74,5 @@ body {
 
 .order-service:hover,
 .order-service:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
