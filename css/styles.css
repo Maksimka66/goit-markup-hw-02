@@ -93,31 +93,3 @@ body {
 .third-section {
   background-color: #f4f4fd;
 }
-
-.second-header-b {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
-
-.ul-third-section {
-  color: #ffffff;
-}
-
-.header-third-section {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.page-third-section {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: 434455;
-}
