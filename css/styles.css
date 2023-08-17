@@ -1,4 +1,4 @@
-.nav .logo {
+.logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -6,6 +6,10 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+}
+
+.logo-part {
+  color: #2e2f42;
 }
 
 body {
