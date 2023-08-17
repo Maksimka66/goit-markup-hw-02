@@ -113,3 +113,17 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.foot {
+  background-color: #2e2f42;
+}
+
+.logo-part-second {
+  color: #f4f4fd;
+}
+
+.page-foot {
+  line-height: 1.5;
+  color: var(#f4f4fd);
+  letter-spacing: 0.02em;
+}
