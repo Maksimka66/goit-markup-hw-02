@@ -91,7 +91,7 @@ body {
 }
 
 .third-section {
-  background-color: f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .second-header-b {
@@ -100,10 +100,10 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: 2e2f42;
+  color: #2e2f42;
 }
 
-.li-third-section {
+.ul-third-section {
   color: #ffffff;
 }
 
