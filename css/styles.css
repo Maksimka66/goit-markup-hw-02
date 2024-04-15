@@ -23,7 +23,9 @@
   color: #404bbf;
 }
 
-.menu {list-style-type: none;}
+.menu {
+  list-style-type: none;
+}
 
 .link:focus {
   color: #404bbf;
@@ -38,6 +40,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
 }
 
 .contacts-connect:hover,
